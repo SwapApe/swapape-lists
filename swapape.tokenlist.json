@@ -1,0 +1,49 @@
+{
+    "name": "SwapApe Token List",
+    "timestamp": "2022-10-12T13:46:17.455Z",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "patch": 53
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+    "keywords": [
+      "swapbase",
+      "default"
+    ],
+    "tokens": [
+       {
+            "name": "Wrapped APE",
+            "address": "0x4200000000000000000000000000000000000006",
+            "symbol": "WAPE",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png"
+        },
+        {
+            "name": "SwapApe Token",
+            "address": "0x2156006a207A793B4069a2B72BE58DC2bD759232",
+            "symbol": "APED",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://i.ibb.co/fpGh022/logo-circle.png"
+        },
+        {
+            "name": "Ape-USD",
+            "address": "0x5B8F638330d7D6bD9D43811fe702F6894e97EF03",
+            "symbol": "apeUSD",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+        },
+        {
+            "name": "Ape-ETH",
+            "address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+            "symbol": "apeETH",
+            "decimals": 18,
+            "chainId": 8453,
+            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+        }
+    ]
+  }
