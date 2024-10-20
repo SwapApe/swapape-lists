@@ -35,7 +35,7 @@
             "symbol": "apeUSD",
             "decimals": 18,
             "chainId": 33139,
-            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+            "logoURI": "https://token-list.camelot.exchange/assets/apeusd.jpg"
         },
         {
             "name": "Ape-ETH",
@@ -43,7 +43,7 @@
             "symbol": "apeETH",
             "decimals": 18,
             "chainId": 33139,
-            "logoURI": "https://raw.githubusercontent.com/Canto-Network/list/main/logos/token-logos/token/ETH.svg"
+            "logoURI": "https://token-list.camelot.exchange/assets/apeeth.jpg"
         }
     ]
   }
