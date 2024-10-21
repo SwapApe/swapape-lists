@@ -39,7 +39,7 @@
             "0x48b62137EdfA95a428D35C09E44256a739F6B557",
             "0xcF800F4948D16F23333508191B1B1591daF70438"
          ],
-         "stakingRewardAddress":"0xD755149fa04Ea615e1fBd003FE0bDed0e541434B",
+         "stakingRewardAddress":"0xC478e8D028eABa9Ff90124174c07a93A739Dcd49",
          "ended":false,
          "lp":"",
          "name":"",
@@ -51,7 +51,7 @@
          "poolPid": 1,
          "lpName": "ape-apeETH",
          "rewardToken":"0xc4d477CCCa4fFA20c6E1696C4C587B779F24640B",
-         "pair":"0xC478e8D028eABa9Ff90124174c07a93A739Dcd49"
+         "pair":"0x759343D8505c8B4486e47C1E6731031705049520"
       },
       {
          "tokens":[
