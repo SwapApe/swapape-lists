@@ -17,80 +17,61 @@
    "active":[
       {
          "tokens":[
-            "0x4200000000000000000000000000000000000006",
-            "0x2156006a207A793B4069a2B72BE58DC2bD759232"
+            "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+            "0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4"
          ],
-         "stakingRewardAddress":"0xC733b0EbB1c456D5B1067De602cFA4973Dc33B36",
+         "stakingRewardAddress":"0xB3B554DA0D7B8d8C47602E92C7519B61234e11F3",
          "ended":false,
          "lp":"",
          "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
+         "baseToken":"0x48b62137EdfA95a428D35C09E44256a739F6B557",
          "rate": 70000,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
          "poolPid": 0,
-         "lpName": "APED-APE",
-         "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
-         "pair":"0xe85d5A74756cAcB4B2E066Abca8971136C10b9db"
+         "lpName": "ape-apeUSD",
+         "rewardToken":"0xc4d477CCCa4fFA20c6E1696C4C587B779F24640B",
+         "pair":"0xb054178679e8CE57a5D99D17f648bae138BD9B50"
       },
       {
          "tokens":[
-            "0x4200000000000000000000000000000000000006",
-            "0xd07379a755A8f11B57610154861D694b2A0f615a"
+            "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+            "0xcF800F4948D16F23333508191B1B1591daF70438"
          ],
          "stakingRewardAddress":"0xD755149fa04Ea615e1fBd003FE0bDed0e541434B",
          "ended":false,
          "lp":"",
          "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
+         "baseToken":"0x48b62137EdfA95a428D35C09E44256a739F6B557",
          "rate": 6000,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
          "poolPid": 1,
-         "lpName": "apeUSD-apeETH",
-         "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
-         "pair":"0x5554419CCd0293d9383901F461C7C3E0c66E925F"
+         "lpName": "ape-apeETH",
+         "rewardToken":"0xc4d477CCCa4fFA20c6E1696C4C587B779F24640B",
+         "pair":"0xC478e8D028eABa9Ff90124174c07a93A739Dcd49"
       },
       {
          "tokens":[
-            "0x4200000000000000000000000000000000000006",
-            "0xEB466342C4d449BC9f53A865D5Cb90586f405215"
+            "0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4",
+            "0xcF800F4948D16F23333508191B1B1591daF70438"
          ],
-         "stakingRewardAddress":"0xdfE13075ba7568DA9F11b6E64b2f04D20f1eC075",
+         "stakingRewardAddress":"0x86Fe2Ba99dC4308050EF40b055EfaB4f11704C84",
          "ended":false,
          "lp":"",
          "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
+         "baseToken":"0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4",
          "rate": 100,
          "rewardsRatio1": 1,
          "rewardsRatio2": 0,
          "voteable": false,
          "poolPid": 2,
          "lpName": "apeUSD-APE",
-         "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
-         "pair":"0xAca85874D52e3e6d991f9E0b273a96228EDfeE7B"
+         "rewardToken":"0xc4d477CCCa4fFA20c6E1696C4C587B779F24640B",
+         "pair":"0xba51189B6a52602Bf35c70a501aafb41d8139da8"
       },
-     {
-         "tokens":[
-            "0x4200000000000000000000000000000000000006",
-            "0xEB466342C4d449BC9f53A865D5Cb90586f405215"
-         ],
-         "stakingRewardAddress":"0xdfE13075ba7568DA9F11b6E64b2f04D20f1eC075",
-         "ended":false,
-         "lp":"",
-         "name":"",
-         "baseToken":"0x4200000000000000000000000000000000000006",
-         "rate": 100,
-         "rewardsRatio1": 1,
-         "rewardsRatio2": 0,
-         "voteable": false,
-         "poolPid": 3,
-         "lpName": "apeETH-APE",
-         "rewardToken":"0x2156006a207A793B4069a2B72BE58DC2bD759232",
-         "pair":"0xAca85874D52e3e6d991f9E0b273a96228EDfeE7B"
-      }
    ],
    "closed":[
    ]
