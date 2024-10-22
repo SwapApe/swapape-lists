@@ -18,6 +18,25 @@
       {
          "tokens":[
             "0x48b62137EdfA95a428D35C09E44256a739F6B557",
+            "0xc4d477CCCa4fFA20c6E1696C4C587B779F24640B"
+         ],
+         "stakingRewardAddress":"0xc888f2f95179fA8bb8a9255d83Bce1bDE3085970",
+         "ended":false,
+         "lp":"",
+         "name":"",
+         "baseToken":"0x48b62137EdfA95a428D35C09E44256a739F6B557",
+         "rate": 70000,
+         "rewardsRatio1": 1,
+         "rewardsRatio2": 0,
+         "voteable": false,
+         "poolPid": 6,
+         "lpName": "ape-aped",
+         "rewardToken":"0xc4d477CCCa4fFA20c6E1696C4C587B779F24640B",
+         "pair":"0xdc50861185c71613ceD75a701A44F5262aB4D252"
+      },
+      {
+         "tokens":[
+            "0x48b62137EdfA95a428D35C09E44256a739F6B557",
             "0xA2235d059F80e176D931Ef76b6C51953Eb3fBEf4"
          ],
          "stakingRewardAddress":"0xB3B554DA0D7B8d8C47602E92C7519B61234e11F3",
